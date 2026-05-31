@@ -1,0 +1,12 @@
+{
+  "name": "layout-inspector",
+  "version": "1.0.0",
+  "description": "Inspect website layout systems using Playwright",
+  "main": "layout-inspector.js",
+  "scripts": {
+    "inspect": "node layout-inspector.js"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
